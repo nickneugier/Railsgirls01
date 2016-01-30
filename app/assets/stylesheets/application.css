@@ -19,6 +19,4 @@ footer { margin-top: 100px; }
 table, td, th
 { vertical-align: middle; border: none;
   color: red; }
-th { border-bottom: 1px solid #DDD;
-.container { border: 1px solid red !important;}
-.navbar-brand { border: 1px solid green; color: green;}
+th { border-bottom: 1px solid #DDD;}
